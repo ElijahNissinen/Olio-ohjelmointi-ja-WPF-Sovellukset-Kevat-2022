@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		testapp\testapp.csproj = testapp\testapp.csproj
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{D293663D-9BC0-4919-BBF8-CCAC7ABDA027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{6D6B8F7F-FD32-4262-B1A7-E88D184289D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +26,14 @@ Global
 		{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D293663D-9BC0-4919-BBF8-CCAC7ABDA027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D293663D-9BC0-4919-BBF8-CCAC7ABDA027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D293663D-9BC0-4919-BBF8-CCAC7ABDA027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D293663D-9BC0-4919-BBF8-CCAC7ABDA027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6B8F7F-FD32-4262-B1A7-E88D184289D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6B8F7F-FD32-4262-B1A7-E88D184289D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6B8F7F-FD32-4262-B1A7-E88D184289D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6B8F7F-FD32-4262-B1A7-E88D184289D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,6 +13,8 @@ namespace Harjoitus1
 
             Auto.TulostaData();
 
+            Console.WriteLine();
+
             Ajoneuvo vene = new Ajoneuvo();
             vene.Nimi = "Buster";
             vene.Nopeus = 100;
