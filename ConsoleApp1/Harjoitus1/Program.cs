@@ -6,12 +6,19 @@ namespace Harjoitus1
     {
         static void Main(string[] args)
         {
-            Ajoneuvo Ajoneuvo1 = new Ajoneuvo();
-            Ajoneuvo1.Nimi = "Auto";
-            Ajoneuvo1.Nopeus = 100;
-            Ajoneuvo1.Renkaat = 4;
+            Ajoneuvo Auto = new Ajoneuvo();
+            Auto.Nimi = "Toyota Corolla";
+            Auto.Nopeus = 420;
+            Auto.Renkaat = 4;
 
-            Ajoneuvo1.TulostaData();
+            Auto.TulostaData();
+
+            Ajoneuvo vene = new Ajoneuvo();
+            vene.Nimi = "Buster";
+            vene.Nopeus = 100;
+            vene.Renkaat = 0;
+
+            vene.TulostaData();
         }
     }
 }

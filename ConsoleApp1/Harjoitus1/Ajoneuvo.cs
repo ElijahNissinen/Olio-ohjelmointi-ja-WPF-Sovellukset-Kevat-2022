@@ -12,7 +12,9 @@ namespace Harjoitus1
 
         public void TulostaData()
         {
-            Console.WriteLine("Ajoneuvo: " + Nimi + ", Nopeus: " + Nopeus + ", Renkaat: " + Renkaat);
+            Console.WriteLine("Ajoneuvon nimi: " + Nimi);
+            Console.WriteLine("Ajoneuvon nopeus: " + Nopeus);
+            Console.WriteLine("Ajoneuvon renkaiden määrä: " + Renkaat);
         }
     }
 }
