@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus1", "Harjoitus1\Harjoitus1.csproj", "{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96AD48DB-F9C9-49F2-A325-E576A3AE7209}"
+	ProjectSection(SolutionItems) = preProject
+		testapp\Koira.cs = testapp\Koira.cs
+		testapp\Program.cs = testapp\Program.cs
+		testapp\testapp.csproj = testapp\testapp.csproj
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257D332B-5013-4B13-84CD-752C5174ACC4}
+	EndGlobalSection
+EndGlobal
