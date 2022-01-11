@@ -4,7 +4,20 @@ using System.Text;
 
 namespace Harjoitus6
 {
-    class Eläin
+    abstract class Eläin
     {
+        private static int instanssit = 0;
+
+        public Eläin()
+        {
+            instanssit++;
+        }
+
+        public static void KuinkaMonta()
+        {
+            Console.WriteLine("Eläimiä on elossa: " + instanssit);
+        }
+
+        public abstract void Ääntele();
     }
 }
