@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus1", "Harjoitus1\Harjoitus1.csproj", "{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus1", "Harjoitus1\Harjoitus1.csproj", "{212F9B56-B657-4A55-ABB9-6CA1E18E56EE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96AD48DB-F9C9-49F2-A325-E576A3AE7209}"
 	ProjectSection(SolutionItems) = preProject
@@ -12,11 +12,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		testapp\testapp.csproj = testapp\testapp.csproj
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{D293663D-9BC0-4919-BBF8-CCAC7ABDA027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{D293663D-9BC0-4919-BBF8-CCAC7ABDA027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{6D6B8F7F-FD32-4262-B1A7-E88D184289D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus3", "Harjoitus3\Harjoitus3.csproj", "{6D6B8F7F-FD32-4262-B1A7-E88D184289D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{9F47A5CF-72D3-411B-B9AA-863EEBAE8E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus4", "Harjoitus4\Harjoitus4.csproj", "{9F47A5CF-72D3-411B-B9AA-863EEBAE8E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{AAC8D316-A5CF-46D2-A3AF-DABAC776C6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus5", "Harjoitus5\Harjoitus5.csproj", "{C55A539A-892A-4AF7-BFB7-07EF1E4FF6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus6", "Harjoitus6\Harjoitus6.csproj", "{F97531CB-BF1A-4D33-871A-36430ADBF47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perintä", "Perintä\Perintä.csproj", "{647D8D8F-473A-4095-A37C-90C300CF71AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,6 +48,22 @@ Global
 		{9F47A5CF-72D3-411B-B9AA-863EEBAE8E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F47A5CF-72D3-411B-B9AA-863EEBAE8E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F47A5CF-72D3-411B-B9AA-863EEBAE8E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC8D316-A5CF-46D2-A3AF-DABAC776C6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC8D316-A5CF-46D2-A3AF-DABAC776C6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC8D316-A5CF-46D2-A3AF-DABAC776C6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC8D316-A5CF-46D2-A3AF-DABAC776C6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55A539A-892A-4AF7-BFB7-07EF1E4FF6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55A539A-892A-4AF7-BFB7-07EF1E4FF6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55A539A-892A-4AF7-BFB7-07EF1E4FF6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55A539A-892A-4AF7-BFB7-07EF1E4FF6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F97531CB-BF1A-4D33-871A-36430ADBF47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97531CB-BF1A-4D33-871A-36430ADBF47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97531CB-BF1A-4D33-871A-36430ADBF47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97531CB-BF1A-4D33-871A-36430ADBF47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647D8D8F-473A-4095-A37C-90C300CF71AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647D8D8F-473A-4095-A37C-90C300CF71AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647D8D8F-473A-4095-A37C-90C300CF71AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647D8D8F-473A-4095-A37C-90C300CF71AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj": {}
+    "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj": {
+    "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj",
+        "projectUniqueName": "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj",
         "projectName": "Harjoitus4",
-        "projectPath": "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj",
+        "projectPath": "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\Harjoitus4.csproj",
         "packagesPath": "C:\\Users\\elijahonyx.nissinen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\obj\\",
+        "outputPath": "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elijahonyx.nissinen\\AppData\\Roaming\\NuGet\\NuGet.Config",

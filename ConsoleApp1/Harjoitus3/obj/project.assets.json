@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus3\\Harjoitus3.csproj",
+      "projectUniqueName": "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus3\\Harjoitus3.csproj",
       "projectName": "Harjoitus3",
-      "projectPath": "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus3\\Harjoitus3.csproj",
+      "projectPath": "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus3\\Harjoitus3.csproj",
       "packagesPath": "C:\\Users\\elijahonyx.nissinen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elijahonyx.nissinen\\source\\repos\\ElijahNissinen\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus3\\obj\\",
+      "outputPath": "C:\\Users\\elijahonyx.nissinen\\Source\\Repos\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\ConsoleApp1\\Harjoitus3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elijahonyx.nissinen\\AppData\\Roaming\\NuGet\\NuGet.Config",
