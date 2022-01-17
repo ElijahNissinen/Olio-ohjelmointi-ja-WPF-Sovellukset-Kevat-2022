@@ -1,0 +1,14 @@
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\bin\Debug\netcoreapp3.1\Harjoitus7.exe
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\bin\Debug\netcoreapp3.1\Harjoitus7.deps.json
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\bin\Debug\netcoreapp3.1\Harjoitus7.runtimeconfig.json
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\bin\Debug\netcoreapp3.1\Harjoitus7.runtimeconfig.dev.json
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\bin\Debug\netcoreapp3.1\Harjoitus7.dll
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\bin\Debug\netcoreapp3.1\Harjoitus7.pdb
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.csproj.AssemblyReference.cache
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.AssemblyInfoInputs.cache
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.AssemblyInfo.cs
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.csproj.CoreCompileInputs.cache
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.dll
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.pdb
+C:\Users\elijahonyx.nissinen\Source\Repos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\Harjoitus7\obj\Debug\netcoreapp3.1\Harjoitus7.genruntimeconfig.cache

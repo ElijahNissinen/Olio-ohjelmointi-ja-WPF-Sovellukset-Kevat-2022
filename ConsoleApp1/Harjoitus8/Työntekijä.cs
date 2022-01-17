@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Harjoitus8
 {
-    class Työntekijä
+    class Työntekijä : Henkilö
     {
+
     }
 }
