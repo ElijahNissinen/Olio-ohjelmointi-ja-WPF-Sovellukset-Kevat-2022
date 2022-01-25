@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp1"
+    "\\ConsoleApp1",
+    "\\ConsoleApp1\\Harjoitus17",
+    "\\ConsoleApp1\\Kokoelma"
   ],
-  "SelectedNode": "\\ConsoleApp1\\OlioJaWPFSovellukset.sln",
+  "SelectedNode": "\\ConsoleApp1\\Harjoitus17\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

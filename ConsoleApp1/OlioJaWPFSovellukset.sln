@@ -38,7 +38,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "Casting\Casting.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kokoelma", "Kokoelma\Kokoelma.csproj", "{BA51FFCE-3712-4FD1-909C-50D85233C687}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus14", "Harjoitus14\Harjoitus14.csproj", "{FC425CF5-E263-4A08-ABCD-2B350A987EC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus14", "Harjoitus14\Harjoitus14.csproj", "{FC425CF5-E263-4A08-ABCD-2B350A987EC0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus15", "Harjoitus15\Harjoitus15.csproj", "{4A4D5EA6-779E-4FA0-B42E-B2D372CDBE25}"
 EndProject
@@ -47,6 +47,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus17", "Harjoitus17\Harjoitus17.csproj", "{4701DEE8-7EF5-4F7B-AFFF-B9B88A1D9706}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus18", "Harjoitus18\Harjoitus18.csproj", "{1403BC96-2464-4924-BEFB-BCFCD16F8DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SivujenVaihto", "SIvujenVaihto\SivujenVaihto.csproj", "{21781616-66F5-4E83-ABEA-AB0C62C06D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus19", "Harjoitus19\Harjoitus19.csproj", "{8F853638-537E-430E-97CE-B093A5B637E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus23", "Harjoitus23\Harjoitus23.csproj", "{B2F09C6F-CA22-4A7B-83AA-11866EA17CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -130,6 +136,18 @@ Global
 		{1403BC96-2464-4924-BEFB-BCFCD16F8DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1403BC96-2464-4924-BEFB-BCFCD16F8DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1403BC96-2464-4924-BEFB-BCFCD16F8DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21781616-66F5-4E83-ABEA-AB0C62C06D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21781616-66F5-4E83-ABEA-AB0C62C06D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21781616-66F5-4E83-ABEA-AB0C62C06D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21781616-66F5-4E83-ABEA-AB0C62C06D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F853638-537E-430E-97CE-B093A5B637E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F853638-537E-430E-97CE-B093A5B637E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F853638-537E-430E-97CE-B093A5B637E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F853638-537E-430E-97CE-B093A5B637E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F09C6F-CA22-4A7B-83AA-11866EA17CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F09C6F-CA22-4A7B-83AA-11866EA17CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F09C6F-CA22-4A7B-83AA-11866EA17CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F09C6F-CA22-4A7B-83AA-11866EA17CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
